@@ -1,5 +1,7 @@
 # CSC 47300: Website Design
 
+Warin Wohab CSC 473 Senior, 7th semester 
+
 This is an example project. It serves a couple purposes.
 
 1. See how a project is structured
